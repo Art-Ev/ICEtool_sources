@@ -1,2 +1,2 @@
-# ICEasy_sources
-sources used to create ICEasy plugin
+# ICEtool_sources
+sources used to create ICEtool plugin
